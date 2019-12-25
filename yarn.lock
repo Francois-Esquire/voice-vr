@@ -2006,8 +2006,9 @@ debug@^4.0.1, debug@^4.1.0:
   dependencies:
     ms "^2.1.1"
 
-"debug@github:ngokevin/debug#noTimestamp":
+debug@ngokevin/debug#noTimestamp:
   version "2.2.0"
+  uid ef5f8e66d49ce8bc64c6f282c15f8b7164409e3a
   resolved "https://codeload.github.com/ngokevin/debug/tar.gz/ef5f8e66d49ce8bc64c6f282c15f8b7164409e3a"
 
 decode-uri-component@^0.2.0:
@@ -2159,8 +2160,9 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-"document-register-element@github:dmarcos/document-register-element#8ccc532b7f3744be954574caf3072a5fd260ca90":
+document-register-element@dmarcos/document-register-element#8ccc532b7f3744be954574caf3072a5fd260ca90:
   version "0.5.4"
+  uid "8ccc532b7f3744be954574caf3072a5fd260ca90"
   resolved "https://codeload.github.com/dmarcos/document-register-element/tar.gz/8ccc532b7f3744be954574caf3072a5fd260ca90"
 
 dom-serializer@0:
@@ -6392,10 +6394,10 @@ three-buffer-vertex-data@^1.0.0:
   dependencies:
     flatten-vertex-data "^1.0.0"
 
-three@^0.105.2:
-  version "0.105.2"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.105.2.tgz#d135f1549bdcf5a9acd904ba3dbf9198a0268984"
-  integrity sha512-L3Al37k4g3hVbgFFS251UVtIc25chhyN0/RvXzR0C+uIBToV6EKDG+MZzEXm9L2miGUVMK27W46/VkP6WUZXMg==
+three@^0.112.0:
+  version "0.112.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.112.0.tgz#3b392ca32df77a3570c226c1fe184d9f5f86ac66"
+  integrity sha512-dX2fm4kmpaEq3A8sMGOBZzI5X132Lzoh+Aw/uFF3iGXnjM0jzxo5vugDbydTQbWU2I31XC1Nn7kIPdyhxx1uqg==
 
 through2@0.6.x:
   version "0.6.5"
